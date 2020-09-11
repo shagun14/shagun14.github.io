@@ -611,7 +611,7 @@ form label {
 .gtco-section {
   padding: 7em 0;
   clear: both;
-  position: relative;
+  #position: relative;
 }
 @media screen and (max-width: 768px) {
   #gtco-features,
